@@ -1,4 +1,4 @@
-capistrano-recipes
+Capistrano Recipes
 ==================
 
 Capistrano recipes, Ubuntu 12.04 Edition: 
