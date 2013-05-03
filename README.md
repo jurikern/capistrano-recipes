@@ -9,5 +9,6 @@ Capistrano recipes, Ubuntu 12.04 Edition:
 - MongoDB
 - Redis
 - NodeJS
-- Rbenv (Ruby 1.9.3-p392)
+- Rbenv (Ruby 2.0.0-p0)
+- Faye
 - Check configuration
